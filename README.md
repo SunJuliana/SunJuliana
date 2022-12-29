@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @SunJuliana
 - 👀 I am interested in the development and design of mobile applications
 - 🌱 I am currently studying Kotlin and studying to be a psychologist
-- 💞 ️ I want to collaborate on the design
+- 💞 ️ I want to collaborate on the design, my portfolio: https://behance.net/juliakulisheva
 - 📫 to contact me send me email to juliakulisheva@yandex.ru
 
 <!---
